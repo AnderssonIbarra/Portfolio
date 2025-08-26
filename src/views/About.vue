@@ -11,7 +11,7 @@
 import Info from '@/components/Info.vue'
 import Tools from '@/components/Tools.vue'
 import Buttons from '@/components/Buttons.vue'
-import Experience from '../components/Experience.vue'
+import Experience from '@/components/Experience.vue'
 
 export default{
     name: 'about',
