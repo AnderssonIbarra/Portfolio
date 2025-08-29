@@ -73,7 +73,7 @@ export default {
             gsap.from(elementos, {
                 opacity: 0,
                 duration: 1.5,
-                stagger: 0.3,
+                stagger: 0.4,
                 ease: "power2.out"
             });
         }
